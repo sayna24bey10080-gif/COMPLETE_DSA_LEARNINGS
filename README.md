@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
