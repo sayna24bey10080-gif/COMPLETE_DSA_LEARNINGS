@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
