@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/sayna24bey10080-gif/COMPLETE_DSA_LEARNINGS/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
 | ------- |
